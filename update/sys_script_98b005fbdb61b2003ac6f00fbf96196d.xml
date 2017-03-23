@@ -31,16 +31,17 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 	
 	gs.addInfoMessage("sample BR");
+	gs.debug('Hello');
 	
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-23 15:57:49</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>98b005fbdb61b2003ac6f00fbf96196d</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Sample</sys_name>
         <sys_overrides/>
         <sys_package display_value="K16" source="x_27128_k16">d509f4f7db61b2003ac6f00fbf9619bd</sys_package>
@@ -49,7 +50,7 @@
         <sys_scope display_value="K16">d509f4f7db61b2003ac6f00fbf9619bd</sys_scope>
         <sys_update_name>sys_script_98b005fbdb61b2003ac6f00fbf96196d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-03-23 15:58:09</sys_updated_on>
+        <sys_updated_on>2017-03-23 16:28:55</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>

@@ -3,6 +3,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_27128_k16_lab">
         <active>true</active>
         <array>false</array>
+        <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
@@ -52,7 +53,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-23 15:23:16</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>ec624dfbdb61b2003ac6f00fbf9619c7</sys_id>
+        <sys_id>3eb709770f2132001cfdcf8ce1050e6f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_27128_k16_lab</sys_name>
         <sys_package display_value="K16" source="x_27128_k16">d509f4f7db61b2003ac6f00fbf9619bd</sys_package>
@@ -61,7 +62,7 @@
         <sys_scope display_value="K16">d509f4f7db61b2003ac6f00fbf9619bd</sys_scope>
         <sys_update_name>sys_dictionary_x_27128_k16_lab_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-03-23 16:04:07</sys_updated_on>
+        <sys_updated_on>2017-03-23 16:27:30</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

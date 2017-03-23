@@ -11,7 +11,7 @@
         <sys_class_name>sys_properties</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-23 16:04:56</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>3a728dfbdb61b2003ac6f00fbf9619d3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_27128_k16.logging.verbosity</sys_name>
